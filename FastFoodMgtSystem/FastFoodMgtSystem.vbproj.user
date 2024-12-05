@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Billings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="HomeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryType.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ItemsCategory.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="KitchenMaster.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MasterEntry.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MenuItems.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Notes.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Records.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Restaurentinfoform.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Tables.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

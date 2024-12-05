@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FastFoodMgtSystem/1.0.0": {
+        "runtime": {
+          "FastFoodMgtSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FastFoodMgtSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
